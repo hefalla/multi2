@@ -1,0 +1,25 @@
+header{
+  height: 600px;
+  background-color: crimson;
+}
+
+section{
+  height: 800px;
+}
+
+footer{
+ background-color: coral;
+}
+
+table{
+  width: 100%;
+  text-align: left;
+  margin-left: 50px;
+}
+
+th{
+  padding-bottom: 50px;
+}
+td{
+  padding-bottom: 10px;
+}
